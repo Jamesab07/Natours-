@@ -3,5 +3,5 @@ node_modules
 public/.well-known/appspecific
 *config.env
 .DS_Store
-dev-data/data
+dev-data/
 
